@@ -5,6 +5,7 @@
 - Potential fix: using set instead of a list
 
 **VERSION 2**
+- Final Version
 - Used set instead of list. Only changed 2 lines
 - Simple fix and works! Beats 94.4%
 - _SET VS LIST_
